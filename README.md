@@ -1,6 +1,8 @@
 ## Aplicacion del clima con nodeJs
 
 Ejecutar
-````
-npm install
-node app -d "La plata"
+
+``npm install``
+
+##Ejemplo de uso
+``node app -d "La plata"``
