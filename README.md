@@ -4,5 +4,5 @@ Ejecutar
 
 ``npm install``
 
-##Ejemplo de uso
+## Ejemplo de uso
 ``node app -d "La plata"``
